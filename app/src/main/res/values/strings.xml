@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NIPEX LAG V12</string>
+    <string name="tagline_cyber">TACTICAL PERFORMANCE &amp; OVERLAY SUITE</string>
+    <string name="login_title">ACTIVATION GATE</string>
+    <string name="login_subtitle">Enter a valid NIPEX V12 license key to unlock the floating HUD and real-time diagnostics.</string>
+    <string name="hint_activation_key">NIPEX-V12-XXXX-CC</string>
+    <string name="btn_activate_key">VERIFY &amp; UNLOCK</string>
+    <string name="btn_get_key">GET KEY</string>
+    <string name="verifying_key">CALIBRATING VIP LICENSE…</string>
+    <string name="error_invalid_key">Invalid key format. Tap GET KEY to generate an instant license.</string>
+    <string name="vip_status_active">VIP PRO ACTIVE</string>
+    <string name="vip_status_trial">24H TRIAL ACTIVE</string>
+    <string name="nav_utility">UTILITY</string>
+    <string name="nav_telemetry">TELEMETRY</string>
+    <string name="overlay_permission_title">Overlay Permission Required</string>
+    <string name="overlay_permission_desc">Grant Display Over Other Apps to launch the draggable system-wide floating bubble.</string>
+    <string name="btn_grant_overlay">GRANT OVERLAY</string>
+    <string name="btn_launch_overlay">LAUNCH FLOATING HUD</string>
+    <string name="btn_stop_overlay">STOP FLOATING HUD</string>
+    <string name="btn_clean_memory">CLEAN SYSTEM MEMORY</string>
+    <string name="btn_probe_network">PING PROBE</string>
+    <string name="btn_deactivate">SIGN OUT</string>
+    <string name="fgs_channel_name">NIPEX Floating HUD</string>
+    <string name="fgs_channel_desc">Keeps the NIPEX LAG V12 floating telemetry bubble active</string>
+    <string name="fgs_notification_title">NIPEX LAG V12 HUD Active</string>
+    <string name="fgs_notification_text">Tap to open control deck or use floating bubble controls.</string>
+</resources>

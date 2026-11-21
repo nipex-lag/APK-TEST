@@ -1,0 +1,6 @@
+{
+  "name": "NIPEX LAG V12",
+  "description": "Matte-black cyber floating performance utility with live FPS monitoring, network latency diagnostics, RAM cleaner, and draggable HUD overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
